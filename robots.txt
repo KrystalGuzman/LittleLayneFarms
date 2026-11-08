@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace this placeholder with the verified production domain before launch.
+Sitemap: https://YOUR-PRODUCTION-DOMAIN/sitemap.xml
